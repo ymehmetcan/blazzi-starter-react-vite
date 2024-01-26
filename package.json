@@ -1,0 +1,9 @@
+{
+  "name": "blazzi-starter-react-vite",
+  "version": "0.0.1",
+  "description": "Blazzi Starter Template - React Vite",
+  "keywords": ["blazzi", "starter", "template", "react", "vite"],
+  "author": "Mehmetcan YILMAZ",
+  "type": "module",
+  "packageManager": "pnpm@8.14.2"
+}
