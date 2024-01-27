@@ -11,6 +11,9 @@
   ],
   "author": "Mehmetcan YILMAZ",
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "packageManager": "pnpm@8.14.2",
   "scripts": {
     "dev": "vite",
