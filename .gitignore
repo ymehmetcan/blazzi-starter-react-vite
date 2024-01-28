@@ -13,12 +13,16 @@ build
 # misc
 .DS_Store
 *.pem
+*.local
 
 # debug
 logs
 *.log
 npm-debug.log*
 pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
 
 # env files
 .env*
