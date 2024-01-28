@@ -4,10 +4,11 @@
   "description": "Blazzi Starter Template - React Vite",
   "keywords": [
     "blazzi",
+    "react",
+    "vite",
     "starter",
     "template",
-    "react",
-    "vite"
+    "boilerplate"
   ],
   "author": "Mehmetcan YILMAZ",
   "type": "module",
