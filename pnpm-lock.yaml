@@ -16,6 +16,9 @@ devDependencies:
   '@blazzi/eslint-config':
     specifier: 0.0.4
     version: 0.0.4(eslint@8.56.0)(prettier@3.2.4)(typescript@5.3.3)
+  '@blazzi/prettier-config':
+    specifier: 0.0.2
+    version: 0.0.2
   '@types/react':
     specifier: 18.2.48
     version: 18.2.48
@@ -28,6 +31,9 @@ devDependencies:
   eslint:
     specifier: 8.56.0
     version: 8.56.0
+  prettier:
+    specifier: 3.2.4
+    version: 3.2.4
   typescript:
     specifier: 5.3.3
     version: 5.3.3
@@ -307,6 +313,10 @@ packages:
       eslint: '>=8'
     dependencies:
       eslint: 8.56.0
+    dev: true
+
+  /@blazzi/prettier-config@0.0.2:
+    resolution: {integrity: sha512-wdImFZzJ2rbSzo/q3/NUKDvZI/V08IqgLAiELz5y94pyQBY3OYL1bi/cFuHgSbiGTxz1ZbBeLUWz9Xd4Fl8iLg==}
     dev: true
 
   /@esbuild/aix-ppc64@0.19.12:
