@@ -22,8 +22,9 @@
     "serve": "vite preview",
     "lint": "eslint . --max-warnings 0 --ext .js,.cjs,.mjs,.jsx,.ts,.tsx",
     "lint:fix": "eslint . --ext .js,.cjs,.mjs,.jsx,.ts,.tsx --fix",
-    "format": "prettier --write . --list-different",
-    "format:check": "prettier --check ."
+    "format": "prettier . --write --list-different",
+    "format:check": "prettier . --check",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "react": "18.2.0",
