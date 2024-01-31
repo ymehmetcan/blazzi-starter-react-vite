@@ -12,6 +12,7 @@
   ],
   "author": "Mehmetcan YILMAZ",
   "license": "MIT",
+  "homepage": "https://github.com/ymehmetcan/blazzi-starter-react-vite#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ymehmetcan/blazzi-starter-react-vite.git"
