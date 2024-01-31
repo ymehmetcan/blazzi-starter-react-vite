@@ -11,6 +11,11 @@
     "boilerplate"
   ],
   "author": "Mehmetcan YILMAZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymehmetcan/blazzi-starter-react-vite.git"
+  },
   "type": "module",
   "engines": {
     "node": ">=18.19"
