@@ -3,5 +3,5 @@ module.exports = {
   parserOptions: {
     project: './tsconfig.eslint.json',
   },
-  ignorePatterns: ['dist'],
+  ignorePatterns: ['dist', 'routeTree.gen.ts'],
 };
