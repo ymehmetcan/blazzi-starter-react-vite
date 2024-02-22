@@ -4,3 +4,6 @@ pnpm-lock.yaml
 # production
 dist/
 build/
+
+# tanstack router generated
+routeTree.gen.ts
